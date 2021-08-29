@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on both networking, development and cybersecurity
 - 📫 You can reach me through the email : theprogrammerjeff@gmail.com
       Tel: +254795067776
-      facebook @ facebook.jeffodhiambo.33
+      facebook @ https://www.facebook.jeffodhiambo.33
 
 <!---
 killall-nano/killall-nano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
