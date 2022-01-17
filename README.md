@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff Odhiambo
-- 👀 I’m interested in working for network companies and development farms. 
+- 👀 I’m interested in working for companies that require software development skills.
 - 🌱 I’m currently learning Information Technology on a broader perspective.
-- 💞️ I’m looking to collaborate on both networking, development and cybersecurity
+- 💞️ I’m looking to collaborate on both UX, software development and cybersecurity
 - 📫 You can reach me through the email : theprogrammerjeff@gmail.com
       Tel: +254795067776
       facebook @ https://www.facebook/jeff9924
