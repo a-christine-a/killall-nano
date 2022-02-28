@@ -2,9 +2,10 @@
 - 👀 I’m interested in working for companies that require software development skills.
 - 🌱 I’m currently learning Information Technology on a broader perspective.
 - 💞️ I’m looking to collaborate on both UX, software development and cybersecurity
-- 📫 You can reach me through the email : theprogrammerjeff@gmail.com
-      Tel: +254795067776
-      facebook @ https://www.facebook/jeff9924
+- 📫 You can reach me through:
+   - Email : theprogrammerjeff@gmail.com
+   - Tel: +254795067776
+   - LinkedIn: https://www.linkedin.com/in/jeff-odhiambo
 
 <!---
 killall-nano/killall-nano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
